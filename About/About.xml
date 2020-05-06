@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Mercer's Backpacks (Continued)</name>
-	<packageId>Mlie.MercerBackpacks</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/MercerBackpacks</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter>
-		<li>smashphil.carrycapacityfixed</li>
-		<li>Vanya.Tools.BulkCarrier</li>
-	</loadAfter>
-	<description>Update of Mercer a.k.a. jaeger972 mod for RimWorld 1.1
+  <name>Mercer's Backpacks (Continued)</name>
+  <packageId>Mlie.MercerBackpacks</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/MercerBackpacks</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>smashphil.carrycapacityfixed</li>
+    <li>Vanya.Tools.BulkCarrier</li>
+  </loadAfter>
+  <description>Update of Mercer a.k.a. jaeger972 mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1516302647
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
 
 Support-chat:
 https://discord.gg/SuhwVpM
