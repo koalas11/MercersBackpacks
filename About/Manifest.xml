@@ -6,6 +6,6 @@
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/emipa606/MercerBackpacks/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/MercerBackpacks/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/MercersBackpacks/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/MercersBackpacks/releases</downloadUri>
 </Manifest>
